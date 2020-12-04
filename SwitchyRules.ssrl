@@ -31,10 +31,7 @@
 *.efesco.com
 *.fadv.com
 *.fanruan.com
-*.fonts.googleapis.com
 *.growingio.com
-*.gstatic.com
-*.gstatic.com
 *.haodf.com
 *.huazhu.com
 *.hzrc.com
@@ -82,7 +79,6 @@
 *.zh-ang.com
 *.zhihu.com
 *scholar.google.com
-199.19.105.53
 
 
 [regexp]
